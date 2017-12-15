@@ -1,0 +1,40 @@
+census1.shodan.io 198.20.69.72 - 198.20.69.79
+census2.shodan.io 198.20.69.96 - 198.20.69.103
+census3.shodan.io 198.20.70.111 - 198.20.70.119
+census4.shodan.io 198.20.99.128 - 198.20.99.135
+census5.shodan.io 93.120.27.62
+census6.shodan.io 66.240.236.119
+census7.shodan.io 71.6.135.131
+census8.shodan.io 66.240.192.138
+census9.shodan.io 71.6.167.142
+census10.shodan.io 82.221.105.6
+census11.shodan.io 82.221.105.7
+census12.shodan.io 71.6.165.200
+atlantic.census.shodan.io 188.138.9.50
+pacific.census.shodan.io 85.25.103.50
+rim.census.shodan.io 85.25.43.94
+pirate.census.shodan.io 71.6.146.185
+inspire.census.shodan.io 71.6.146.186
+ninja.census.shodan.io 71.6.158.166
+border.census.shodan.io 198.20.87.96 - 198.20.87.103
+burger.census.shodan.io 66.240.219.146
+atlantic.dns.shodan.io 209.126.110.38
+blog.shodan.io 104.236.198.48
+hello.data.shodan.io 104.131.0.69
+www.shodan.io 162.159.244.38
+host private.shodan.io
+ny.private.shodan.io 159.203.176.62
+atlantic249.serverprofi24.com 188.138.1.119
+sky.census.shodan.io 80.82.77.33
+dojo.census.shodan.io 80.82.77.139
+ubtuntu16146130.aspadmin.com 71.6.146.130
+shodan.io 66.240.205.34
+malware-hunter.census.shodan.io 216.117.2.180
+battery.census.shodan.io 93.174.95.106
+house.census.shodan.io 89.248.172.16
+goldfish.census.shodan.io 185.163.109.66
+battery.census.shodan.io 93.174.95.106
+mason.census.shodan.io 89.248.167.131
+flower.census.shodan.io 94.102.49.190
+cloud.census.shodan.io 94.102.49.193
+turtle.census.shodan.io 185.181.102.18
