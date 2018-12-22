@@ -1,1 +1,1 @@
-# This is a blocklist of DNS Domais traced by me
+# This is a blocklist of DNS Domais logged by me
