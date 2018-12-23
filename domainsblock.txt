@@ -240,7 +240,6 @@ cb5p2cysso.ga
 census1.shodan.io
 census2.shodan.io
 census3.shodan.io
-christiandony.home
 cjlskp.com.ua
 cjlskp8.com.ua
 cjlskp87.com.ua
