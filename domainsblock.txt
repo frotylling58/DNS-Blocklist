@@ -38,6 +38,7 @@ mason.census.shodan.io 89.248.167.131
 flower.census.shodan.io 94.102.49.190
 cloud.census.shodan.io 94.102.49.193
 turtle.census.shodan.io 185.181.102.18
+dyncdn.me
 03j6cs.com
 03j6csv.com
 03j6csvw.com
