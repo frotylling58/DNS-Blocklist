@@ -39,6 +39,10 @@ flower.census.shodan.io 94.102.49.190
 cloud.census.shodan.io 94.102.49.193
 turtle.census.shodan.io 185.181.102.18
 clevernt.com
+ousief.xyz
+bus.clevernt.com
+a.yesadsrv.com
+yesadsrv.com
 dyncdn.me
 03j6cs.com
 03j6csv.com
